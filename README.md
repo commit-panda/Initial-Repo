@@ -1,4 +1,4 @@
-#Illistration on GIT commanda
+#Illistration on GIT commands
 
 Repo used as a walkthrough on Git basics
 
