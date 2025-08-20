@@ -6,3 +6,6 @@ Repo used as a walkthrough on Git basics
 2. Create branches
 3. Creating an empty repo and push the changes to it
 4. Create a license for the repo
+
+
+## This were made in the branch denoted as sdfpt12
