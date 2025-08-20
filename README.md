@@ -1,4 +1,4 @@
-#Illistration on GIT commands
+# Illustration on GIT commands
 
 Repo used as a walkthrough on Git basics
 
@@ -8,4 +8,4 @@ Repo used as a walkthrough on Git basics
 4. Create a license for the repo
 
 
-## This were made in the branch denoted as sdfpt12
+## These were made in the branch denoted as sdfpt12
